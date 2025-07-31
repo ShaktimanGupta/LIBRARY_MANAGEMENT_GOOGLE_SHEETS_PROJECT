@@ -1,4 +1,4 @@
-SEE USING THIS LINK https://docs.google.com/spreadsheets/d/1DC4DSjbcPFEjXlVRYah4BsEZuJUWBs1pbQpe6-_HUvA/edit?usp=sharing
+VIEW LIVE DASHBOARD https://docs.google.com/spreadsheets/d/1DC4DSjbcPFEjXlVRYah4BsEZuJUWBs1pbQpe6-_HUvA/edit?usp=sharing
 Project: 📊 Google Sheets Issued Date Dashboard 
 Overview
 This Google Sheets dashboard provides a clean, visual summary of issued dates—ideal for tracking, reporting, and sharing in professional settings.
